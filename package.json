@@ -1,7 +1,7 @@
 {
-  "name": "pseudolocalisation",
+  "name": "pseudo-localisation",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lightweight pseudo-localisation for Node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
